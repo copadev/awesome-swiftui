@@ -16,8 +16,8 @@
 
 ### Find me on:
 
-- GitHub [@CodePassion-dev](https://github.com/orgs/CodePassion-dev)
-- Website [@codepassion.dev](https://codepassion.dev)
+- GitHub [@duonghominhhuy](https://github.com/duonghominhhuy)
 - Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
+- Website [@codepassion.dev](https://codepassion.dev)
 
 
