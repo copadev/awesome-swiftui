@@ -16,9 +16,9 @@
 
 ### Find me on:
 
-- GitHub[/duonghominhhuy](https://github.com/duonghominhhuy)
-- Twitter[/duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Website[/codepassion.dev](https://codepassion.dev)
-- Facebook[/codepassion.dev](https://www.facebook.com/codepassion.dev)
+- [Website](https://codepassion.dev)
+- [GitHub](https://github.com/duonghominhhuy)
+- [Twitter](https://twitter.com/duonghominhhuy)
+- [Facebook](https://www.facebook.com/codepassion.dev)
 
 
