@@ -1,6 +1,6 @@
 # Awesome SwiftUI
 
-- A list of SwiftUI collection. 
+- A list of awesome SwiftUI collection. 
 
 ![Awesome SwiftUI](assets/banner.png)
 
