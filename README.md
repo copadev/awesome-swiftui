@@ -10,23 +10,23 @@
 [![Website](https://img.shields.io/badge/Website-codepassion.dev-yellow.svg)](https://codepassion.dev)
 [![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
 
-### User Interface
+# User Interface
 
-###### Views and Controls
+### Views and Controls
 
-###### View Layout and Presentation
+### View Layout and Presentation
 
-###### Drawing and Animation
+### Drawing and Animation
 
-###### Framework Integration
+### Framework Integration
 
-### Data and Events
+# Data and Events
 
-###### State and Data Flow
+### State and Data Flow
 
-###### Gestures
+### Gestures
 
-### Previews in Xcode
+# Previews in Xcode
 
 ### Find me on:
 
