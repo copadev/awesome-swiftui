@@ -13,6 +13,7 @@ struct ContentView: View {
         VStack(spacing: 35) {
             TextField("Enter text here...", text: self.$input)
                 .padding()
+                .foregroundColor(.white)
                 .background(Color(.lightGray))
                 .clipShape(Capsule())
             Button(action: {
