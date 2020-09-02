@@ -8,7 +8,6 @@
 **UIActivityIndicatorView** | **UIActivityIndicatorView**     | **UIActivityIndicatorView**
 :--:|:--:|:--:|
 [![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/interfacing-with-uikit/UIActivityIndicatorView.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-
 <!-- Row 2 -->
 **UIActivityIndicatorView** | **UIActivityIndicatorView**
 ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
