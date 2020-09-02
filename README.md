@@ -18,11 +18,9 @@
 
 ### Drawing and Animation
 
-### Framework Integration
+### [Framework Integration](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration)
 
-###### [Interfacing with UIKit](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/interfacing-with-uikit)
-
-- UIActivityIndicatorView
+- Interfacing with UIKit
 
 # Data and Events
 

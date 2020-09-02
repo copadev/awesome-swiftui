@@ -1,6 +1,8 @@
 # Awesome SwiftUI - Interfacing with UIKit
 
-### Visual Examples
+# Visual Examples
+
+### Interfacing with UIKit
 
 **UIActivityIndicatorView** | **UIActivityIndicatorView**     | **UIActivityIndicatorView**
 :--:|:--:|:--:|
