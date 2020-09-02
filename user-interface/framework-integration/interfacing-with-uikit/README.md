@@ -4,7 +4,7 @@
 
 **UIActivityIndicatorView** | **UIActivityIndicatorView**     | **UIActivityIndicatorView**
 :--:|:--:|:--:|
-[UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | [UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | [UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif "UIActivityIndicatorView") | [UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | [UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
 **UIActivityIndicatorView** | **UIActivityIndicatorView**
 [UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | [UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
 
