@@ -28,7 +28,7 @@
 
 # Previews in Xcode
 
-[Preview Layout on muiltiple devices]()
+[Preview Layout on muiltiple devices](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/previews-in-xcode/preview-layout-on-muiltiple-devices.swift)
 
 ### Find me on:
 
