@@ -12,10 +12,92 @@
 
 # User Interface
 
-### Views and Controls
+### [Views and Controls](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls)
+
+- Essentials
+    - [] View
+    - [] Creating and Combining Views
+    - [] Working with UI Controls
+- Text
+    - [] Text
+    - [] TextField
+    - [] SecureField
+    - [] TextEditor
+- Images
+    - [] Images
+- Buttons
+    - [] Button
+    - [] NavigationLink
+    - [] EditButton
+    - [] PasteButton
+    - [] SignInWithAppleButton
+    - [] Menu
+- Value Selectors
+    - [] Toggle
+    - [] Picker
+    - [] DatePicker
+    - [] Slider
+    - [] Stepper
+    - [] ColorPicker
+- Value Indicators
+    - [] ProgressView
+    - [] Gauge
+    - [] Label
+    - [] Link
+- Fonts and Localization
+    - [] Font
+    - [] ScaledMetric
+    - [] LocalizedStringKey
 
 ### View Layout and Presentation
 
+- Essentials
+    - [] Building Lists and Navigation
+    - [] Composing Complex Interfaces
+- Stacks
+    - [] HStack
+    - [] VStack
+    - [] ZStack
+    - [] LazyHStack
+    - [] LazyVStack
+- Grids
+    - [] LazyHGrid
+    - [] LazyVGrid
+    - [] GridItem
+- Lists and Scroll Views
+    - [] List
+    - [] ForEach
+    - [] ScrollView
+    - [] ScrollViewReader
+    - [] ScrollViewProxy
+    - [] DynamicViewContent
+    - [] Axis
+- Container Views
+    - [] Form
+    - [] Group
+    - [] GroupBox
+    - [] Section
+- Hierarchical Views
+    - [] OutlineGroup
+    - [] DisclosureGroup
+- Spacers and Dividers
+    - [] Spacer
+    - [] Divider
+- Architectural Views
+    - [] NavigationView
+    - [] TabView
+    - [] HSplitView
+    - [] VSplitView
+- Presentations
+    - [] Alert
+    - [] ActionSheet
+- Conditionally Visible Items
+    - [] EmptyView
+    - [] EquatableView
+- Infrequently Used Views
+    - [] AnyView
+    - []  TupleView
+    
 ### Drawing and Animation
 
 ### [Framework Integration](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration)
@@ -30,7 +112,16 @@
 
 # Previews in Xcode
 
-[Preview Layout on muiltiple devices](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/previews-in-xcode/preview-layout-on-muiltiple-devices.swift)
+- [Previews](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/previews-in-xcode/previews)
+
+- Preview Creation
+    - [x] PreviewProvider
+- Preview Customization
+    - [] PreviewDevice
+    - [] PreviewPlatform
+    - []  PreviewLayout
+- Preview Contexts
+    - [] PreviewContext
 
 ### Find me on:
 

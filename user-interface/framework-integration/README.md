@@ -1,13 +1,13 @@
-# Awesome SwiftUI - Interfacing with UIKit
+# Awesome SwiftUI - Framework Integration
 
 # Visual Examples
 
 ### Interfacing with UIKit
 
-**UIActivityIndicatorView** | **UIActivityIndicatorView**     | **UIActivityIndicatorView**
+**UIActivityIndicatorView** | **Coming soon...**     | **Coming soon...**
 :--:|:--:|:--:|
-[![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/interfacing-with-uikit/UIActivityIndicatorView.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**UIActivityIndicatorView** | **UIActivityIndicatorView**
+[![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIActivityIndicatorView.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+**Coming soon...** | **Coming soon...**
 ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
 
 ### Find me on:
