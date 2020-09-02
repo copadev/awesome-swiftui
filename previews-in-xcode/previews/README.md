@@ -8,7 +8,21 @@
 
 # Preview Customization
 
+### PreviewDevice
+
+- Coming soon...
+
+### PreviewPlatform
+
+- Coming soon...
+
+### PreviewLayout
+
+- Coming soon...
+
 # Preview Contexts
+
+### PreviewContext
 
 # Find me on:
 
