@@ -18,9 +18,9 @@
 
 ### Drawing and Animation
 
-### [Framework Integration](https://developer.apple.com/documentation/swiftui/framework-integration)
+### Framework Integration
 
-###### [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+###### Interfacing with UIKit
 
 [UIActivityIndicatorView](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/interfacing-with-uikit/UIActivityIndicatorView.swift)
 
@@ -30,7 +30,7 @@
 
 ### Gestures
 
-# [Previews in Xcode](https://developer.apple.com/documentation/swiftui/previews)
+# Previews in Xcode
 
 [Preview Layout on muiltiple devices](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/previews-in-xcode/preview-layout-on-muiltiple-devices.swift)
 
