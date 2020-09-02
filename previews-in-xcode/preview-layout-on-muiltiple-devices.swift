@@ -1,8 +1,8 @@
 //
 //  preview-layout-on-muiltiple-devices.swift
 //  
-//
 //  Created by Huy D. on 9/1/20.
+//  Copyright © 2020 Huy D. All rights reserved.
 //
 
 import Foundation

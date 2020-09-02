@@ -1,6 +1,6 @@
 # Awesome SwiftUI
 
-- A list of awesome [SwiftUI](https://developer.apple.com/documentation/swiftui) collection. 
+- A list of awesome [SwiftUI Framework](https://developer.apple.com/documentation/swiftui) collection. 
 
 ![Awesome SwiftUI](assets/banner.png)
 
@@ -18,7 +18,11 @@
 
 ### Drawing and Animation
 
-### Framework Integration
+### [Framework Integration](https://developer.apple.com/documentation/swiftui/framework-integration)
+
+###### [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+
+[UIActivityIndicatorView](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/interfacing-with-uikit/UIActivityIndicatorView.swift)
 
 # Data and Events
 
@@ -26,7 +30,7 @@
 
 ### Gestures
 
-# Previews in Xcode
+# [Previews in Xcode](https://developer.apple.com/documentation/swiftui/previews)
 
 [Preview Layout on muiltiple devices](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/previews-in-xcode/preview-layout-on-muiltiple-devices.swift)
 
