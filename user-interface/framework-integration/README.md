@@ -4,9 +4,9 @@
 
 ### Interfacing with UIKit
 
-**UIActivityIndicatorView** | **Coming soon...**     | **Coming soon...**
+**UIActivityIndicatorView** | **UITextView**     | **Coming soon...**
 :--:|:--:|:--:|
-[![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIActivityIndicatorView.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+[![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIActivityIndicatorView.swift) | [![UITextView](preview/UITextView.gif)]((preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UITextView.swift)) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
 **UIImagePickerController** | **Coming soon...**
 [![UIImagePickerController](preview/UIImagePickerController.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIImagePickerController.swift) | ![UIImagePickerController](preview/UIImagePickerController.gif) |
 
