@@ -20,7 +20,7 @@
     - [ ] Working with UI Controls
 - Text
     - [ ] Text
-    - [ ] TextField
+    - [x] TextField
     - [ ] SecureField
     - [ ] TextEditor
 - Images
@@ -157,7 +157,7 @@
 ### [Framework Integration](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration)
 
 - Essentials
-    - [ ] Interfacing with UIKit
+    - [x] Interfacing with UIKit
     - [ ] Creating a watchOS App
 - AppKit Hosting
     - [ ] NSHostingController
@@ -244,7 +244,7 @@
 - Preview Customization
     - [ ] PreviewDevice
     - [ ] PreviewPlatform
-    - [ ]  PreviewLayout
+    - [ ] PreviewLayout
 - Preview Contexts
     - [ ] PreviewContext
 
