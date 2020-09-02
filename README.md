@@ -28,6 +28,8 @@
 
 # Previews in Xcode
 
+[Preview Layout on muiltiple devices]()
+
 ### Find me on:
 
 - [Website](https://codepassion.dev)
