@@ -7,8 +7,8 @@
 **UIActivityIndicatorView** | **Coming soon...**     | **Coming soon...**
 :--:|:--:|:--:|
 [![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIActivityIndicatorView.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+**UIImagePickerController** | **Coming soon...**
+![UIImagePickerController](preview/UIImagePickerController.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
 
 ### Creating a watchOS App
 
