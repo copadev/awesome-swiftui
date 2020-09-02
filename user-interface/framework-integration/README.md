@@ -8,7 +8,7 @@
 :--:|:--:|:--:|
 [![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIActivityIndicatorView.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
 **UIImagePickerController** | **Coming soon...**
-![UIImagePickerController](preview/UIImagePickerController.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+[![UIImagePickerController](preview/UIImagePickerController.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIImagePickerController.swift) | ![UIImagePickerController](preview/UIImagePickerController.gif) |
 
 ### Creating a watchOS App
 
