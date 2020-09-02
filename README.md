@@ -20,7 +20,7 @@
 
 ### Framework Integration
 
-#### Interfacing with UIKit
+### - Interfacing with UIKit
 
 [UIActivityIndicatorView](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/interfacing-with-uikit/UIActivityIndicatorView.swift)
 
