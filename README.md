@@ -24,7 +24,7 @@
     - [ ] SecureField
     - [ ] TextEditor
 - Images
-    - [ ] Images
+    - [x] Images
 - Buttons
     - [ ] Button
     - [ ] NavigationLink
