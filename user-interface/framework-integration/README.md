@@ -78,8 +78,8 @@
 
 # Find me on:
 
-- Website: [https://codepassion.dev](https://codepassion.dev)
-- Facebook: [fb.com/codepassion.dev](https://www.facebook.com/codepassion.dev)
 - [GitHub](https://github.com/duonghominhhuy) and [Twitter](https://twitter.com/duonghominhhuy)
+- Website: [https://codepassion.dev](https://codepassion.dev)
+- Facebook: [https://fb.com/codepassion.dev](https://www.facebook.com/codepassion.dev)
 
 
