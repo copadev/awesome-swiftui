@@ -40,7 +40,11 @@
 
 ### Images
 
-- Coming soon...
+**Blur Background Image** | **Coming soon...**     | **Coming soon...**
+:--:|:--:|:--:|
+[![BlurBackgroundImage](preview/BlurBackgroundImage.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls/text/BlurBackgroundImage.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+**Coming soon...** | **Coming soon...**
+![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
 
 # Buttons
 
