@@ -12,7 +12,11 @@
 
 ### Shape
 
-- Coming soon...
+**Shape [.topLeft, .topRight]** | **Coming soon...**     | **Coming soon...**
+:--:|:--:|:--:|
+[![Shape](preview/Shape.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/drawing-and-animation/essentials/Shape.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+**Coming soon...** | **Coming soon...**
+![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
 
 # Animation
 
