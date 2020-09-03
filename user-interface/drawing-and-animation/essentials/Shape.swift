@@ -25,7 +25,7 @@ struct ContentView: View {
         VStack {
             Spacer()
             Text("Tap Index: #\(tabIndex)")
-                .foregroundColor(.black)
+                .foregroundColor(.white)
             Spacer()
             HStack(spacing: 0) {
                 Spacer(minLength: 0)
@@ -59,6 +59,7 @@ struct ContentView: View {
             .clipShape(CShape())
             .shadow(radius: 4)
         }
+        .background(Color(.lightGray))
         .edgesIgnoringSafeArea(.all)
     }
 }
