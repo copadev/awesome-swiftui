@@ -122,9 +122,9 @@
 
 ### TabView
 
-**CustomTabView-1** | **Coming soon...**     | **Coming soon...**
+**CustomTabView-1** | **MenuTopBar**     | **Coming soon...**
 :--:|:--:|:--:|
-[![CustomTabView-1](preview/CustomTabView-1.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation/architectural-views/CustomTabView-1.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+[![CustomTabView-1](preview/CustomTabView-1.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation/architectural-views/CustomTabView-1.swift) | [![MenuTopBar](preview/MenuTopBar.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation/architectural-views/MenuTopBar.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
 **Coming soon...** | **Coming soon...**
 ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
 
