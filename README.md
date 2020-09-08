@@ -85,7 +85,7 @@
     - [ ] Divider
 - Architectural Views
     - [ ] NavigationView
-    - [ ] TabView
+    - [x] TabView
     - [ ] HSplitView
     - [ ] VSplitView
 - Presentations
@@ -103,7 +103,7 @@
 - Essentials
     - [ ] Drawing Paths and Shapes
     - [ ] Building Custom Views in SwiftUI
-    - [ ] Shape
+    - [x] Shape
 - Animation
     - [ ] Animating Views and Transitions
     - [ ] Animation
