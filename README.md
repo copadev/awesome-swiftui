@@ -199,7 +199,7 @@
     - [ ] FocusedValues
     - [ ] FocusedValueKey
 - Environment Data
-    - [ ] Environment
+    - [x] Environment
     - [ ] EnvironmentValues
 - View Preferences
     - [ ] PreferenceKey
