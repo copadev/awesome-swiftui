@@ -57,6 +57,14 @@
 
 ### [View Layout and Presentation](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation)
 
+### [Views and Controls](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls)
+
+**Dismiss Keyboard When Tap Outside** | **Coming soon...**     | **Coming soon...**
+:--:|:--:|:--:|
+[![DismissKeyboardWhenTapOutside](preview/DismissKeyboardWhenTapOutside.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
+**Coming soon...** | **Coming soon...**
+![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+
 - Essentials
     - [ ] Building Lists and Navigation
     - [ ] Composing Complex Interfaces
