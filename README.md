@@ -14,34 +14,26 @@
 
 ### [Views and Controls](user-interface/views-and-controls)
 
-**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage**     | **Coming soon...**
+**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage**     | **More...**
 :--:|:--:|:--:|
-[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.gif)](user-interface/views-and-controls/text/BlurBackgroundImage.swift)  | [More...](user-interface/views-and-controls)
+[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/images/text/BlurBackgroundImage.swift)  | [More...](user-interface/views-and-controls)
 
-### [View Layout and Presentation](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation)
-
-### [Views and Controls](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls)
-
-**Dismiss Keyboard When Tap Outside** | **Coming soon...**     | **Coming soon...**
-:--:|:--:|:--:|
-[![DismissKeyboardWhenTapOutside](preview/DismissKeyboardWhenTapOutside.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+### [View Layout and Presentation](user-interface/view-layout-and-presentation)
     
-### [Drawing and Animation](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/drawing-and-animation)
+### [Drawing and Animation](user-interface/drawing-and-animation)
 
 
-### [Framework Integration](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration)
+### [Framework Integration](user-interface/framework-integration)
 
 # Data and Events
 
-### [State and Data Flow](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/data-and-events/state-and-data-flow)
+### [State and Data Flow](data-and-events/state-and-data-flow)
 
-### [Gestures](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/data-and-events/gestures)
+### [Gestures](data-and-events/gestures)
 
 # Previews in Xcode
 
-### [Previews](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/previews-in-xcode/previews)
+### [Previews](previews-in-xcode/previews)
 
 # Find me on:
 
