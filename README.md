@@ -14,9 +14,11 @@
 
 ### [Views and Controls](user-interface/views-and-controls)
 
-**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage**     | **More...**
+**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage**     | **Coming soon...**
 :--:|:--:|:--:|
-[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/images/text/BlurBackgroundImage.swift)  | [More...](user-interface/views-and-controls)
+[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/images/text/BlurBackgroundImage.swift)  | [![Coming soon...](assets/coming-soon.png)]()
+**Coming soon...** | **Coming soon...**     | **Coming soon...**
+[![Coming soon...](assets/coming-soon.png)]() | [![Coming soon...](assets/coming-soon.png)]() | [![Coming soon...](assets/coming-soon.png)]()
 
 ### [View Layout and Presentation](user-interface/view-layout-and-presentation)
     
