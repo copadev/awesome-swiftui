@@ -56,6 +56,12 @@
 
 ### [Gestures](data-and-events/gestures)
 
+**Coming soon..** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](data-and-events/gestures)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](data-and-events/gestures)
+
 # Previews in Xcode
 
 ### [Previews](previews-in-xcode/previews)
