@@ -22,11 +22,11 @@
 
 ### TextField
 
-**Dismiss Keyboard When Tap Outside** | **Coming soon...**     | **Coming soon...**
+**Dismiss Keyboard When Tap Outside** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![DismissKeyboardWhenTapOutside](preview/DismissKeyboardWhenTapOutside.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+[![DismissKeyboardWhenTapOutside](preview/DismissKeyboardWhenTapOutside.gif)](text/DismissKeyboardWhenTapOutside.swift) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
+**Coming soon...** | **Coming soon...** | **Coming soon...**
+![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
 
 ### SecureField
 
@@ -40,11 +40,11 @@
 
 ### Images
 
-**Blur Background Image** | **Coming soon...**     | **Coming soon...**
+**Blur Background Image** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![BlurBackgroundImage](preview/BlurBackgroundImage.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/views-and-controls/images/BlurBackgroundImage.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+[![BlurBackgroundImage](preview/BlurBackgroundImage.png)](images/BlurBackgroundImage.swift) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
+**Coming soon...** | **Coming soon...** | **Coming soon...**
+![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
 
 # Buttons
 
