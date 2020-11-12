@@ -14,13 +14,19 @@
 
 ### [Views and Controls](user-interface/views-and-controls)
 
-**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage**     | **Coming soon...**
+**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage** | **Coming soon...**
 :--:|:--:|:--:|
 [![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/views-and-controls/images/BlurBackgroundImage.swift) | [![Coming soon...](assets/coming-soon.png)](#)
-**Coming soon...** | **Coming soon...**     | **More...**
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [More...](user-interface/views-and-controls)
+**Coming soon...** | **Coming soon...** | [**More...**](user-interface/views-and-controls)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/views-and-controls)
 
 ### [View Layout and Presentation](user-interface/view-layout-and-presentation)
+
+**CustomTabView-1** | **CustomTabView-2** | **MenuTopBar**
+:--:|:--:|:--:|
+[![CustomTabView-1](user-interface/view-layout-and-presentation/preview/CustomTabView-1.png)](user-interface/view-layout-and-presentation/architectural-views/CustomTabView-1.swift) | [![CustomTabView-2](user-interface/view-layout-and-presentation/preview/CustomTabView-2.png)](user-interface/view-layout-and-presentation/architectural-views/CustomTabView-2.swift) | [![MenuTopBar](user-interface/view-layout-and-presentation/preview/MenuTopBar.gif)](user-interface/view-layout-and-presentation/architectural-views/MenuTopBar.swift)
+**Coming soon...** | **Coming soon...** | [**More...**](user-interface/view-layout-and-presentation)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/view-layout-and-presentation)
     
 ### [Drawing and Animation](user-interface/drawing-and-animation)
 
