@@ -30,6 +30,12 @@
     
 ### [Drawing and Animation](user-interface/drawing-and-animation)
 
+**Shape [.topLeft, .topRight]** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![Shape [.topLeft, .topRight]](user-interface/drawing-and-animation/preview/Shape.png)](user-interface/drawing-and-animation/essentials/Shape.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](user-interface/drawing-and-animation)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/drawing-and-animation)
+
 ### [Framework Integration](user-interface/framework-integration)
 
 # Data and Events
