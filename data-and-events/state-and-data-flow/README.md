@@ -64,11 +64,11 @@
 
 ### Environment
 
-**DarkModeToggle** | **Coming soon...**     | **Coming soon...**
+**DarkModeToggle** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![Shape](preview/DarkModeToggle.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/data-and-events/state-and-data-flow/environment-data/DarkModeToggle.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+[![Shape](preview/DarkModeToggle.gif)](environment-data/DarkModeToggle.swift) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
+**Coming soon...** | **Coming soon...** | **Coming soon...**
+![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
 
 ### EnvironmentValues
 
