@@ -122,11 +122,11 @@
 
 ### TabView
 
-**CustomTabView-1** | **CustomTabView-2**     | **Coming soon...**
+**MenuTopBar** | **CustomTabView-1** | **CustomTabView-2**
 :--:|:--:|:--:|
-[![CustomTabView-1](preview/CustomTabView-1.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation/architectural-views/CustomTabView-1.swift) | [![CustomTabView-2](preview/CustomTabView-2.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation/architectural-views/CustomTabView-2.swift) | [![MenuTopBar](preview/MenuTopBar.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/view-layout-and-presentation/architectural-views/MenuTopBar.swift)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+[![MenuTopBar](preview/MenuTopBar.gif)](architectural-views/MenuTopBar.swift) | [![CustomTabView-1](preview/CustomTabView-1.png)](architectural-views/CustomTabView-1.swift) | [![CustomTabView-2](preview/CustomTabView-2.png)](architectural-views/CustomTabView-2.swift)
+**Coming soon...** | **Coming soon...** | **Coming soon...**
+![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
 
 ### HSplitView
 
