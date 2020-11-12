@@ -4,11 +4,11 @@
 
 ### Interfacing with UIKit
 
-**UIActivityIndicatorView** | **UITextView**     | **UIVisualEffectView**
+**UITextView** | **UIVisualEffectView** | **UIActivityIndicatorView**
 :--:|:--:|:--:|
-[![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIActivityIndicatorView.swift) | [![UITextView](preview/UITextView.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UITextView.swift) | [![UIVisualEffectView](preview/UIVisualEffectView.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIVisualEffectView.swift)
-**UIImagePickerController** | **PHPickerConfiguration**
-[![UIImagePickerController](preview/UIImagePickerController.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/UIImagePickerController.swift) | [![PHPickerConfiguration](preview/PHPickerConfiguration.gif)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/framework-integration/essentials/PHPickerConfiguration.swift) |
+[![UITextView](preview/UITextView.gif)](essentials/UITextView.swift) | [![UIVisualEffectView](preview/UIVisualEffectView.png)](essentials/UIVisualEffectView.swift) | [![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)](essentials/UIActivityIndicatorView.swift)
+**UIImagePickerController** | **PHPickerConfiguration** | **Coming soon...**
+[![UIImagePickerController](preview/UIImagePickerController.gif)](essentials/UIImagePickerController.swift) | [![PHPickerConfiguration](preview/PHPickerConfiguration.gif)](essentials/PHPickerConfiguration.swift) | ![Coming soon...](../../assets/coming-soon.png)
 
 ### Creating a watchOS App
 
