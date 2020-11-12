@@ -38,6 +38,12 @@
 
 ### [Framework Integration](user-interface/framework-integration)
 
+**UITextView** | **UIVisualEffectView** | **UIActivityIndicatorView**
+:--:|:--:|:--:|
+[![UITextView](user-interface/framework-integration/preview/UITextView.gif)](user-interface/framework-integration/essentials/UITextView.swift) | [![UIVisualEffectView](user-interface/framework-integration/preview/UIVisualEffectView.png)](user-interface/framework-integration/essentials/UIVisualEffectView.swift) | [![UIActivityIndicatorView](user-interface/framework-integration/preview/UIActivityIndicatorView.gif)](user-interface/framework-integration/essentials/UIActivityIndicatorView.swift)
+**UIImagePickerController** | **PHPickerConfiguration** | [**More...**](user-interface/framework-integration)
+[![UIImagePickerController](user-interface/framework-integration/preview/UIImagePickerController.gif)](user-interface/framework-integration/essentials/UIImagePickerController.swift) | [![PHPickerConfiguration](user-interface/framework-integration/preview/PHPickerConfiguration.gif)](user-interface/framework-integration/essentials/PHPickerConfiguration.swift) | [View More...](user-interface/framework-integration)
+
 # Data and Events
 
 ### [State and Data Flow](data-and-events/state-and-data-flow)
