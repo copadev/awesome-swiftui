@@ -12,11 +12,11 @@
 
 ### Shape
 
-**Shape [.topLeft, .topRight]** | **Coming soon...**     | **Coming soon...**
+**Shape [.topLeft, .topRight]** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![Shape](preview/Shape.png)](https://github.com/CodePassion-dev/awesome-swiftui/blob/master/user-interface/drawing-and-animation/essentials/Shape.swift) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif)
-**Coming soon...** | **Coming soon...**
-![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) | ![UIActivityIndicatorView](preview/UIActivityIndicatorView.gif) |
+[![Shape](preview/Shape.png)](essentials/Shape.swift) | !![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
+**Coming soon...** | **Coming soon...** | **Coming soon...**
+![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
 
 # Animation
 
