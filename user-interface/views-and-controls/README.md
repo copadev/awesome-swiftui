@@ -80,7 +80,11 @@
 
 ### Picker
 
-- Coming soon...
+**SegmentedPickerStyle** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![SegmentedPickerStyle](preview/SegmentedPickerStyle.gif)](value-selectors/SegmentedPickerStyle.swift) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
+**Coming soon...** | **Coming soon...** | **Coming soon...**
+![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png) | ![Coming soon...](../../assets/coming-soon.png)
 
 ### DatePicker
 

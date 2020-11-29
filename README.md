@@ -14,9 +14,9 @@
 
 ### [Views and Controls](user-interface/views-and-controls)
 
-**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage** | **Coming soon...**
+**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage** | **SegmentedPickerStyle**
 :--:|:--:|:--:|
-[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/views-and-controls/images/BlurBackgroundImage.swift) | [![Coming soon...](assets/coming-soon.png)](#)
+[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/views-and-controls/images/BlurBackgroundImage.swift) | [![SegmentedPickerStyle](user-interface/views-and-controls/preview/SegmentedPickerStyle.gif)](user-interface/views-and-controls/value-selectors/SegmentedPickerStyle.swift)
 **Coming soon...** | **Coming soon...** | [**More...**](user-interface/views-and-controls)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/views-and-controls)
 
