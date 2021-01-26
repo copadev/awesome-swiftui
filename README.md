@@ -1,7 +1,5 @@
 # Awesome SwiftUI
 
-- A list of awesome [SwiftUI Framework](https://developer.apple.com/documentation/swiftui) collection. 
-
 ![Awesome SwiftUI](assets/banner.png)
 
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS-red.svg)](https://developer.apple.com/xcode/swiftui/)
@@ -10,66 +8,91 @@
 [![Website](https://img.shields.io/badge/Website-codepassion.dev-yellow.svg)](https://codepassion.dev)
 [![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
 
-# User Interface
+- A list of awesome [SwiftUI Framework](https://developer.apple.com/documentation/swiftui) collection. 
+- UI categories based on the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
 
-### [Views and Controls](user-interface/views-and-controls)
+# [Visual Design](visual-design)
 
-**Dismiss Keyboard When Tap Outside** | **BlurBackgroundImage** | **SegmentedPickerStyle**
-:--:|:--:|:--:|
-[![DismissKeyboardWhenTapOutside](user-interface/views-and-controls/preview/DismissKeyboardWhenTapOutside.gif)](user-interface/views-and-controls/text/DismissKeyboardWhenTapOutside.swift) | [![BlurBackgroundImage](user-interface/views-and-controls/preview/BlurBackgroundImage.png)](user-interface/views-and-controls/images/BlurBackgroundImage.swift) | [![SegmentedPickerStyle](user-interface/views-and-controls/preview/SegmentedPickerStyle.gif)](user-interface/views-and-controls/value-selectors/SegmentedPickerStyle.swift)
-**Coming soon...** | **Coming soon...** | [**More...**](user-interface/views-and-controls)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/views-and-controls)
-
-### [View Layout and Presentation](user-interface/view-layout-and-presentation)
-
-**CustomTabView-1** | **CustomTabView-2** | **MenuTopBar**
-:--:|:--:|:--:|
-[![CustomTabView-1](user-interface/view-layout-and-presentation/preview/CustomTabView-1.png)](user-interface/view-layout-and-presentation/architectural-views/CustomTabView-1.swift) | [![CustomTabView-2](user-interface/view-layout-and-presentation/preview/CustomTabView-2.png)](user-interface/view-layout-and-presentation/architectural-views/CustomTabView-2.swift) | [![MenuTopBar](user-interface/view-layout-and-presentation/preview/MenuTopBar.gif)](user-interface/view-layout-and-presentation/architectural-views/MenuTopBar.swift)
-**Coming soon...** | **Coming soon...** | [**More...**](user-interface/view-layout-and-presentation)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/view-layout-and-presentation)
-    
-### [Drawing and Animation](user-interface/drawing-and-animation)
-
-**Shape [.topLeft, .topRight]** | **Coming soon...** | **Coming soon...**
-:--:|:--:|:--:|
-[![Shape [.topLeft, .topRight]](user-interface/drawing-and-animation/preview/Shape.png)](user-interface/drawing-and-animation/essentials/Shape.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
-**Coming soon...** | **Coming soon...** | [**More...**](user-interface/drawing-and-animation)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](user-interface/drawing-and-animation)
-
-### [Framework Integration](user-interface/framework-integration)
-
-**UITextView** | **UIVisualEffectView** | **UIActivityIndicatorView**
-:--:|:--:|:--:|
-[![UITextView](user-interface/framework-integration/preview/UITextView.gif)](user-interface/framework-integration/essentials/UITextView.swift) | [![UIVisualEffectView](user-interface/framework-integration/preview/UIVisualEffectView.png)](user-interface/framework-integration/essentials/UIVisualEffectView.swift) | [![UIActivityIndicatorView](user-interface/framework-integration/preview/UIActivityIndicatorView.gif)](user-interface/framework-integration/essentials/UIActivityIndicatorView.swift)
-**UIImagePickerController** | **PHPickerConfiguration** | [**More...**](user-interface/framework-integration)
-[![UIImagePickerController](user-interface/framework-integration/preview/UIImagePickerController.gif)](user-interface/framework-integration/essentials/UIImagePickerController.swift) | [![PHPickerConfiguration](user-interface/framework-integration/preview/PHPickerConfiguration.gif)](user-interface/framework-integration/essentials/PHPickerConfiguration.swift) | [View More...](user-interface/framework-integration)
-
-# Data and Events
-
-### [State and Data Flow](data-and-events/state-and-data-flow)
+### [Dark Mode](visual-design/#dark-mode)
 
 **DarkModeToggle** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![DarkModeToggle](data-and-events/state-and-data-flow/preview/DarkModeToggle.gif)](data-and-events/state-and-data-flow/environment-data/DarkModeToggle.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
-**Coming soon...** | **Coming soon...** | [**More...**](data-and-events/state-and-data-flow)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](data-and-events/state-and-data-flow)
+[![DarkModeToggle](visual-design/dark-mode/preview/DarkModeToggle.gif)](visual-design/dark-mode/DarkModeToggle.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](visual-design/#dark-mode)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](visual-design/#dark-mode)
 
-### [Gestures](data-and-events/gestures)
+# [Bars](bars)
 
-**Coming soon..** | **Coming soon...** | **Coming soon...**
+### [Tab Bars](bars/tab-bars)
+
+**CustomTabView-1** | **CustomTabView-2** | **Coming soon...**
 :--:|:--:|:--:|
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
-**Coming soon...** | **Coming soon...** | [**More...**](data-and-events/gestures)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](data-and-events/gestures)
+[![CustomTabView-1](bars/tab-bars/preview/CustomTabView-1.png)](bars/tab-bars/CustomTabView-1.swift) | [![CustomTabView-2](bars/tab-bars/preview/CustomTabView-2.png)](bars/tab-bars/CustomTabView-2.swift) | [![Coming soon...](assets/coming-soon.png)](#) 
+**Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](bars/#tab-bars)
 
-# Previews in Xcode
+# [Views](views)
 
-### [Previews](previews-in-xcode/previews)
+### [Background](views/background)
+
+**BlurBackgroundImage** | **UIVisualEffectView** | **Coming soon...**
+:--:|:--:|:--:|
+[![BlurBackgroundImage](views/background/preview/BlurBackgroundImage.png)](views/background/BlurBackgroundImage.swift) | [![UIVisualEffectView](views/background/preview/UIVisualEffectView.png)](views/background/UIVisualEffectView.swift) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](views/#background)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#background)
+
+### [Scroll Views](views/scroll-views)
+
+**MenuTopBar** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![MenuTopBar](views/scroll-views/preview/MenuTopBar.gif)](views/scroll-views/MenuTopBar.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#scroll-views)
+
+### [Text Views](views/text-views)
+
+**UITextView** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![UITextView](views/text-views/preview/UITextView.gif)](views/text-views/UITextView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](views/#text-views)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#text-views)
+
+# [Controls](controls)
+
+### [Pickers](controls/pickers)
+
+**UIImagePickerController** | **PHPickerConfiguration** | **Coming soon...**
+:--:|:--:|:--:|
+[![UIImagePickerController](controls/pickers/preview/UIImagePickerController.gif)](controls/pickers/UIImagePickerController.swift) | [![PHPickerConfiguration](controls/pickers/preview/PHPickerConfiguration.gif)](controls/pickers/PHPickerConfiguration.swift) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#pickers)
+
+### [Progress Indicators](controls/progress-indicators)
+
+**UIActivityIndicatorView** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![SegmentedPickerStyle](controls/progress-indicators/preview/UIActivityIndicatorView.gif)](controls/progress-indicators/UIActivityIndicatorView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](controls/#progress-indicators)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#progress-indicators)
+
+### [Segmented Controls](controls/segmented-controls)
+
+**SegmentedPickerStyle** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![SegmentedPickerStyle](controls/segmented-controls/preview/SegmentedPickerStyle.gif)](controls/segmented-controls/SegmentedPickerStyle.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](controls/#segmented-controls)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#segmented-controls)
+
+### [Text Fields](controls/text-fields)
+
+**Dismiss Keyboard When Tap Outside** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![SegmentedPickerStyle](controls/text-fields/preview/DismissKeyboardWhenTapOutside.gif)](controls/text-fields/DismissKeyboardWhenTapOutside.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](controls/#text-fields)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#text-fields)
 
 # Find me on:
 
 - [GitHub](https://github.com/duonghominhhuy) and [Twitter](https://twitter.com/duonghominhhuy)
 - Website: [https://codepassion.dev](https://codepassion.dev)
 - Facebook: [https://fb.com/codepassion.dev](https://www.facebook.com/codepassion.dev)
-
-
