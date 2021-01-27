@@ -10,7 +10,7 @@
 
 - A list of awesome [SwiftUI Framework](https://developer.apple.com/documentation/swiftui) collection. 
 - UI categories based on the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
-- Click on each screenshot to see example code.
+- How to use: Click on each screenshot to open example code.
 
 # Table of Contents
 
@@ -109,7 +109,7 @@
     <!-- - [Sliders](#sliders) -->
     <!-- - [Steppers](#steppers) -->
     <!-- - [Switches](#switches) -->
-    - [Text Fields](#text-fields) -->
+    - [Text Fields](#text-fields)
 
 <!--
 - [Extensions](#extensions)
