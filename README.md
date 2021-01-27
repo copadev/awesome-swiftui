@@ -53,16 +53,16 @@
 -->
 
 - [Visual Design](#visual-design)
-[//]: #    - [Adaptivity and Layout](#adaptivity-and-layout)
-[//]: #   - [Animation](#animation)
-[//]: #    - [Branding](#branding)
-[//]: #    - [Color](#color)
+    <!-- - [Adaptivity and Layout](#adaptivity-and-layout) -->
+    <!-- - [Animation](#animation) -->
+    <!-- - [Branding](#branding) -->
+    <!-- - [Color](#color) -->
     - [Dark Mode](#dark-mode)
-[//]: #    - [Launch Screen](#launch-screen)
-[//]: #    - [Materials](#materials)
-[//]: #    - [Terminology](#terminology)
-[//]: #   - [Typography](#typography)
-[//]: #   - [Video](#video)
+    <!-- - [Launch Screen](#launch-screen) -->
+    <!-- - [Materials](#materials) -->
+    <!-- - [Terminology](#terminology) -->
+    <!-- - [Typography](#typography) -->
+    <!-- - [Video](#video) -->
 
 <!--
 - [Icons and Images](#icons-and-images)
@@ -72,43 +72,44 @@
 -->
 
 - [Bars](#bars)
-[//]: #   - [Navigation Bars](#navigation-bars)
-[//]: #   - [Search Bars](#search-bars)
-[//]: #    - [Sidebars](#sidebars)
-[//]: #   - [Status Bars](#status-bars)
+    <!-- - [Navigation Bars](#navigation-bars) -->
+    <!-- - [Search Bars](#search-bars) -->
+    <!-- - [Sidebars](#sidebars) -->
+    <!-- - [Status Bars](#status-bars) -->
     - [Tab Bars](#tab-bars)
-[//]: #   - [Toolbars](#toolbars)
+    <!-- - [Toolbars](#toolbars) -->
 
 - [Views](#views)
-[//]: #    - [Action Sheets](#action-sheets)
-[//]: #    - [Activity Views](#activity-views)
-[//]: #    - [Alerts](#alerts)
-[//]: #   - [Collections](#collections)
-[//]: #    - [Image Views](#image-views)
-[//]: #    - [Pages](#pages)
-[//]: #    - [Popovers](#popovers)
+    <!-- - [Action Sheets](#action-sheets) -->
+    <!-- - [Activity Views](#activity-views) -->
+    <!-- - [Alerts](#alerts) -->
+    - [Background](#background)
+    <!-- - [Collections](#collections) -->
+    <!-- - [Image Views](#image-views) -->
+    <!-- - [Pages](#pages) -->
+    <!-- - [Popovers](#popovers) -->
     - [Scroll Views](#scroll-views)
-[//]: #    - [Split Views](#split-views)
-[//]: #    - [Tables](#tables)
+    <!-- - [Split Views](#split-views) -->
+    <!-- - [Tables](#tables) -->
     - [Text Views](#text-views)
-[//]: #  - [Web Views](#web-views)
+    <!-- - [Web Views](#web-views) -->
 
 - [Controls](#controls)
-[//]: #   - [Buttons](#buttons)
-[//]: #   - [Color Wells](#color-wells)
-[//]: #    - [Context Menus](#context-menus)
-[//]: #   - [Edit Menus](#edit-menus)
-[//]: #   - [Labels](#labels)
-[//]: #   - [Page Controls](#page-controls)
+    <!-- - [Buttons](#buttons) -->
+    <!-- - [Color Wells](#color-wells) -->
+    <!-- - [Context Menus](#context-menus) -->
+    <!-- - [Edit Menus](#edit-menus) -->
+    <!-- - [Labels](#labels) -->
+    <!-- - [Page Controls](#page-controls) -->
     - [Pickers](#pickers)
     - [Progress Indicators](#progress-indicators)
-[//]: #    - [Pull-Down Menus](#pull-down-menus)
-[//]: #    - [Refresh Content Controls](#refresh-content-controls)
+    <!-- - [Pull-Down Menus](#pull-down-menus) -->
+    <!-- - [Refresh Content Controls](#refresh-content-controls) -->
     - [Segmented Controls](#segmented-controls)
-[//]: #   - [Sliders](#sliders)
-[//]: #   - [Steppers](#steppers)
-[//]: #    - [Switches](#switches)
-    - [Text Fields](#text-fields)
+    <!-- - [Sliders](#sliders) -->
+    <!-- - [Steppers](#steppers) -->
+    <!-- - [Switches](#switches) -->
+    - [Text Fields](#text-fields) -->
 
 <!--
 - [Extensions](#extensions)
