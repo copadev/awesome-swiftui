@@ -100,7 +100,7 @@
     <!-- - [Context Menus](#context-menus) -->
     <!-- - [Edit Menus](#edit-menus) -->
     <!-- - [Labels](#labels) -->
-    <!-- - [Page Controls](#page-controls) -->
+    - [Page Controls](#page-controls)
     - [Pickers](#pickers)
     - [Progress Indicators](#progress-indicators)
     <!-- - [Pull-Down Menus](#pull-down-menus) -->
@@ -167,6 +167,14 @@
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#text-views)
 
 # [Controls](controls)
+
+### [Page Controls](controls/page-controls)
+
+**PageTabView** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![UIImagePickerController](controls/page-controls/preview/PageTabView.gif)](controls/page-controls/PageTabView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#pickers)
 
 ### [Pickers](controls/pickers)
 
