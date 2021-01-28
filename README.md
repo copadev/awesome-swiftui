@@ -202,9 +202,9 @@
 
 ### [Text Fields](controls/text-fields)
 
-**Dismiss Keyboard When Tap Outside** | **Coming soon...** | **Coming soon...**
+**DismissKeyboardWhenTapOutside** | **MessageInput** | **Coming soon...**
 :--:|:--:|:--:|
-[![SegmentedPickerStyle](controls/text-fields/preview/DismissKeyboardWhenTapOutside.gif)](controls/text-fields/DismissKeyboardWhenTapOutside.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+[![SegmentedPickerStyle](controls/text-fields/preview/DismissKeyboardWhenTapOutside.gif)](controls/text-fields/DismissKeyboardWhenTapOutside.swift) | [![MessageInput](controls/text-fields/preview/MessageInput.gif)](controls/text-fields/MessageInput.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#text-fields)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#text-fields)
 
