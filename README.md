@@ -128,7 +128,7 @@
 :--:|:--:|:--:|
 [![DarkModeToggle](visual-design/dark-mode/preview/DarkModeToggle.gif)](visual-design/dark-mode/DarkModeToggle.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](visual-design/#dark-mode)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](visual-design/#dark-mode)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](visual-design/#dark-mode)
 
 # [Bars](bars)
 

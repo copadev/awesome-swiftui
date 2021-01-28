@@ -1,4 +1,6 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  DarkModeToggle.swift
 //
 //  Created by Huy D. on 9/17/20.
@@ -23,7 +25,7 @@ struct ContentView: View {
                 }
                 .padding(.horizontal, 8)
                 Spacer()
-                Text("Hello, world!")
+                Text("Hello, CodePassion.dev 😜")
                     .padding()
                 Spacer()
             }
