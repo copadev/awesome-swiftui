@@ -1,8 +1,10 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  CustomTabView-1.swift
+//  Awesome-SwiftUI
 //
-//  Created by Huy D. on 9/8/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Created by Huy D. on 1/27/21.
 //
 
 import SwiftUI
@@ -14,6 +16,7 @@ struct ContentView: View {
             Spacer()
             Text("Tab Index: \(index)")
             Spacer()
+            let bottomInset = UIApplication.shared.windows.first?.safeAreaInsets.bottom
             HStack(spacing: 0) {
                 Button(action: {
                     withAnimation {
@@ -65,12 +68,15 @@ struct ContentView: View {
             }
             .padding(.top)
             .padding(.horizontal, 25)
-            .padding(.bottom)
+            .padding(.bottom, bottomInset == 0 ? 15 : bottomInset)
             .background(Color.yellow)
-
         }
-        .background(Color.black.opacity(0.06).edgesIgnoringSafeArea(.all))
+        .edgesIgnoringSafeArea(.all)
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

@@ -138,7 +138,7 @@
 :--:|:--:|:--:|
 [![CustomTabView-1](bars/tab-bars/preview/CustomTabView-1.png)](bars/tab-bars/CustomTabView-1.swift) | [![CustomTabView-2](bars/tab-bars/preview/CustomTabView-2.png)](bars/tab-bars/CustomTabView-2.swift) | [![Coming soon...](assets/coming-soon.png)](#) 
 **Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](bars/#tab-bars)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
 
 # [Views](views)
 
