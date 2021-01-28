@@ -1,13 +1,15 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  MenuTopBar.swift
+//  Awesome-SwiftUI
 //
-//  Created by Huy D. on 9/8/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Created by Huy D. on 1/28/21.
 //
 
 import SwiftUI
 
-var topMenu = ["Shoes", "Clothing", "By Sports", "By Branch", "By Price"]
+let topMenu = ["Shoes", "Clothing", "By Sports", "By Branch", "By Price"]
 
 struct MenuTopBar: View {
     var menu: Int
@@ -49,4 +51,8 @@ struct ContentView: View {
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

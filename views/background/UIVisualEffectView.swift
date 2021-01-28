@@ -1,14 +1,15 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  UIVisualEffectView.swift
+//  Awesome-SwiftUI
 //
-//  Created by Huy D. on 9/3/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Created by Huy D. on 1/28/21.
 //
 
 import SwiftUI
 
 // MARK: - Using BlurView in SwiftUI
-
 struct BlurView: UIViewRepresentable {
     
     var style: UIBlurEffect.Style
@@ -22,9 +23,7 @@ struct BlurView: UIViewRepresentable {
     
 }
 
-
 // MARK: - How to use (demo)
-
 struct ContentView: View {
     var body: some View {
         ZStack {
@@ -34,7 +33,7 @@ struct ContentView: View {
                 .aspectRatio(contentMode: .fill)
                 .frame(width: UIScreen.main.bounds.width)
                 .blur(radius: 35, opaque: true)
-        
+            
             // using blur view
             ZStack {
                 BlurView(style: .regular)
@@ -51,4 +50,8 @@ struct ContentView: View {
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

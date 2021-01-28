@@ -148,7 +148,7 @@
 :--:|:--:|:--:|
 [![BlurBackgroundImage](views/background/preview/BlurBackgroundImage.png)](views/background/BlurBackgroundImage.swift) | [![UIVisualEffectView](views/background/preview/UIVisualEffectView.png)](views/background/UIVisualEffectView.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#background)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#background)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#background)
 
 ### [Scroll Views](views/scroll-views)
 
@@ -156,7 +156,7 @@
 :--:|:--:|:--:|
 [![MenuTopBar](views/scroll-views/preview/MenuTopBar.gif)](views/scroll-views/MenuTopBar.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#scroll-views)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#scroll-views)
 
 ### [Text Views](views/text-views)
 
@@ -164,7 +164,7 @@
 :--:|:--:|:--:|
 [![UITextView](views/text-views/preview/UITextView.gif)](views/text-views/UITextView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#text-views)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](views/#text-views)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#text-views)
 
 # [Controls](controls)
 
@@ -174,7 +174,7 @@
 :--:|:--:|:--:|
 [![UIImagePickerController](controls/page-controls/preview/PageTabView.gif)](controls/page-controls/PageTabView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#pickers)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
 
 ### [Pickers](controls/pickers)
 
@@ -182,7 +182,7 @@
 :--:|:--:|:--:|
 [![UIImagePickerController](controls/pickers/preview/UIImagePickerController.gif)](controls/pickers/UIImagePickerController.swift) | [![PHPickerConfiguration](controls/pickers/preview/PHPickerConfiguration.gif)](controls/pickers/PHPickerConfiguration.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#pickers)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
 
 ### [Progress Indicators](controls/progress-indicators)
 
@@ -190,7 +190,7 @@
 :--:|:--:|:--:|
 [![SegmentedPickerStyle](controls/progress-indicators/preview/UIActivityIndicatorView.gif)](controls/progress-indicators/UIActivityIndicatorView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#progress-indicators)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#progress-indicators)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#progress-indicators)
 
 ### [Segmented Controls](controls/segmented-controls)
 
@@ -198,7 +198,7 @@
 :--:|:--:|:--:|
 [![SegmentedPickerStyle](controls/segmented-controls/preview/SegmentedPickerStyle.gif)](controls/segmented-controls/SegmentedPickerStyle.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#segmented-controls)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#segmented-controls)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#segmented-controls)
 
 ### [Text Fields](controls/text-fields)
 
@@ -206,7 +206,7 @@
 :--:|:--:|:--:|
 [![SegmentedPickerStyle](controls/text-fields/preview/DismissKeyboardWhenTapOutside.gif)](controls/text-fields/DismissKeyboardWhenTapOutside.swift) | [![MessageInput](controls/text-fields/preview/MessageInput.gif)](controls/text-fields/MessageInput.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#text-fields)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [View More...](controls/#text-fields)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#text-fields)
 
 # Find me on:
 

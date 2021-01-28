@@ -1,14 +1,15 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  UITextView.swift
+//  Awesome-SwiftUI
 //
-//  Created by Huy D. on 9/2/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Created by Huy D. on 1/28/21.
 //
 
 import SwiftUI
 
 // MARK: - Using UITextView (MultilineTextField) in SwiftUI
-
 struct MultilineTextField: UIViewRepresentable {
     
     @Binding var text: String
@@ -58,12 +59,9 @@ struct MultilineTextField: UIViewRepresentable {
     
 }
 
-
 // MARK: - How to use (demo)
-
 struct ContentView: View {
     @State var input: String = ""
-    @State var height: CGFloat = 0
     var body: some View {
         VStack {
             MultilineTextField(text: self.$input)
@@ -89,24 +87,9 @@ struct ContentView: View {
                 .edgesIgnoringSafeArea(.all)
                 .onTapGesture {
                     UIApplication.shared.windows.first?.rootViewController?.view.endEditing(true)
-            }
+                }
         )
-            .padding(.horizontal)
-            .padding(.bottom, self.height)
-            .onAppear(perform: {
-                NotificationCenter.default.addObserver(forName: UIResponder.keyboardWillShowNotification, object: nil, queue: .main) { (data) in
-                    guard let info = data.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue else {
-                        return
-                    }
-                    withAnimation {
-                        // remove bottom edge spacing
-                        self.height = info.cgRectValue.height - (UIApplication.shared.windows.first?.safeAreaInsets.bottom ?? 0)
-                    }
-                }
-                NotificationCenter.default.addObserver(forName: UIResponder.keyboardDidHideNotification, object: nil, queue: .main) { (_) in
-                    self.height = 0
-                }
-            })
+        .padding(.horizontal)
     }
     
     func isFilled() -> Bool {
@@ -114,4 +97,8 @@ struct ContentView: View {
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
