@@ -132,7 +132,15 @@
 
 # [Bars](bars)
 
-### [Tab Bars](bars/tab-bars)
+### [Navigation Bars](bars/#navigation-bars)
+
+**NavigationBar-1** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![NavigationBar-1](bars/tab-bars/preview/NavigationBar-1.png)](bars/tab-bars/NavigationBar-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) 
+**Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
+
+### [Tab Bars](bars/#tab-bars)
 
 **CustomTabView-1** | **CustomTabView-2** | **Coming soon...**
 :--:|:--:|:--:|
@@ -142,7 +150,7 @@
 
 # [Views](views)
 
-### [Background](views/background)
+### [Background](views/#background)
 
 **BlurBackgroundImage** | **UIVisualEffectView** | **Coming soon...**
 :--:|:--:|:--:|
@@ -150,7 +158,7 @@
 **Coming soon...** | **Coming soon...** | [**More...**](views/#background)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#background)
 
-### [Scroll Views](views/scroll-views)
+### [Scroll Views](views/#scroll-views)
 
 **MenuTopBar** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
@@ -158,7 +166,7 @@
 **Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#scroll-views)
 
-### [Text Views](views/text-views)
+### [Text Views](views/#text-views)
 
 **UITextView** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
@@ -168,7 +176,7 @@
 
 # [Controls](controls)
 
-### [Page Controls](controls/page-controls)
+### [Page Controls](controls/#page-controls)
 
 **PageTabView** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
@@ -176,7 +184,7 @@
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
 
-### [Pickers](controls/pickers)
+### [Pickers](controls/#pickers)
 
 **UIImagePickerController** | **PHPickerConfiguration** | **Coming soon...**
 :--:|:--:|:--:|
@@ -184,7 +192,7 @@
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
 
-### [Progress Indicators](controls/progress-indicators)
+### [Progress Indicators](controls/#progress-indicators)
 
 **UIActivityIndicatorView** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
@@ -192,7 +200,7 @@
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#progress-indicators)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#progress-indicators)
 
-### [Segmented Controls](controls/segmented-controls)
+### [Segmented Controls](controls/#segmented-controls)
 
 **SegmentedPickerStyle** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
@@ -200,7 +208,7 @@
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#segmented-controls)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#segmented-controls)
 
-### [Text Fields](controls/text-fields)
+### [Text Fields](controls/#text-fields)
 
 **DismissKeyboardWhenTapOutside** | **MessageInput** | **Coming soon...**
 :--:|:--:|:--:|
