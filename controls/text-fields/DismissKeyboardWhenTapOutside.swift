@@ -1,8 +1,10 @@
 //
-//  ContentView.swift
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
+//  DismissKeyboardWhenTapOutside.swift
+//  Awesome-SwiftUI
 //
-//  Created by Huy D. on 9/2/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Created by Huy D. on 1/28/21.
 //
 
 import SwiftUI
@@ -13,8 +15,7 @@ struct ContentView: View {
         VStack(spacing: 35) {
             TextField("Enter text here...", text: self.$input)
                 .padding()
-                .foregroundColor(.white)
-                .background(Color(.lightGray))
+                .background(Color.black.opacity(0.06))
                 .clipShape(Capsule())
             Button(action: {
                 print("Button tapped")
@@ -38,9 +39,13 @@ struct ContentView: View {
                 .edgesIgnoringSafeArea(.all)
                 .onTapGesture {
                     UIApplication.shared.windows.first?.rootViewController?.view.endEditing(true)
-            }
+                }
         )
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

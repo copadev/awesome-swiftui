@@ -1,6 +1,8 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  SegmentedPickerStyle.swift
-//  CodePassion
+//  Awesome-SwiftUI
 //
 //  Created by Huy D. on 11/29/20.
 //
@@ -18,13 +20,19 @@ struct ContentView: View {
             .pickerStyle(SegmentedPickerStyle())
             Spacer()
             if viewIndex == 0 {
-                Text("First Tab Content")
+                Text("First Tab")
                     .foregroundColor(.red)
             } else if viewIndex == 1 {
-                Text("Second Tab Content")
+                Text("Second Tab")
                     .foregroundColor(.blue)
             }
             Spacer()
         }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
     }
 }

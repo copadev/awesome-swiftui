@@ -1,4 +1,6 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  MessageInput.swift
 //  Awesome-SwiftUI
 //

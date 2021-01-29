@@ -1,5 +1,8 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  UIActivityIndicatorView.swift
+//  Awesome-SwiftUI
 //
 //  Created by Huy D. on 9/1/20.
 //  Copyright © 2020 Huy D. All rights reserved.
@@ -8,7 +11,6 @@
 import SwiftUI
 
 // MARK: - Using UIActivityIndicatorView in SwiftUI
-
 struct Indicator: UIViewRepresentable {
     
     func makeUIView(context: Context) -> UIActivityIndicatorView {
@@ -17,15 +19,12 @@ struct Indicator: UIViewRepresentable {
         return view
     }
     
-    func updateUIView(_ uiView: UIActivityIndicatorView, context: Context) {
-        
-    }
+    func updateUIView(_ uiView: UIActivityIndicatorView, context: Context) { }
     
 }
 
 
 // MARK: - How to use (demo)
-
 struct ContentView: View {
     @State var timeRemaining = 5
     let timer = Timer.publish(every: 1, on: .main, in: .common).autoconnect()
@@ -38,10 +37,16 @@ struct ContentView: View {
                         if self.timeRemaining > 0 {
                             self.timeRemaining -= 1
                         }
-                }
+                    }
             } else {
-                Text("Hello World !!!")
+                Text("Hello, CodePassion.dev 😜")
             }
         }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
     }
 }

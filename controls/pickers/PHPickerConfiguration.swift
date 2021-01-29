@@ -1,5 +1,8 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  PHPickerConfiguration.swift
+//  Awesome-SwiftUI
 //
 //  Created by Huy D. on 7/23/20.
 //  Copyright © 2020 Huy D. All rights reserved.
@@ -61,7 +64,6 @@ struct ImagePicker: UIViewControllerRepresentable {
     }
 }
 
-
 // MARK: - How to use (demo)
 
 struct ContentView: View {
@@ -100,4 +102,8 @@ struct ContentView: View {
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

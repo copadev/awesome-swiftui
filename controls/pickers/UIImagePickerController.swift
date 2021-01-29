@@ -1,5 +1,8 @@
 //
+//  https://github.com/CodePassion-dev/awesome-swiftui
+//  https://github.com/duonghominhhuy
 //  UIImagePickerController.swift
+//  Awesome-SwiftUI
 //
 //  Created by Huy D. on 9/2/20.
 //  Copyright © 2020 Huy D. All rights reserved.
@@ -41,7 +44,7 @@ struct ImagePicker: UIViewControllerRepresentable {
         
         func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any]) {
             guard let imgData = info[.originalImage] as? UIImage,
-            let jpegData = imgData.jpegData(compressionQuality: 0.5) else { return }
+                  let jpegData = imgData.jpegData(compressionQuality: 0.5) else { return }
             parent.imageData = jpegData
             self.parent.showPicker.toggle()
         }
@@ -49,7 +52,6 @@ struct ImagePicker: UIViewControllerRepresentable {
     }
     
 }
-
 
 // MARK: - How to use (demo)
 
@@ -84,4 +86,8 @@ struct ContentView: View {
     }
 }
 
-
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

@@ -2,6 +2,7 @@
 //  https://github.com/CodePassion-dev/awesome-swiftui
 //  https://github.com/duonghominhhuy
 //  DarkModeToggle.swift
+//  Awesome-SwiftUI
 //
 //  Created by Huy D. on 9/17/20.
 //
