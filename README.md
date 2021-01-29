@@ -136,15 +136,15 @@
 
 **NavigationBar-1** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![NavigationBar-1](bars/tab-bars/preview/NavigationBar-1.png)](bars/tab-bars/NavigationBar-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) 
+[![NavigationBar-1](bars/navigation-bars/preview/NavigationBar-1.png)](bars/navigation-bars/NavigationBar-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) 
 **Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
 
 ### [Tab Bars](bars/#tab-bars)
 
-**CustomTabView-1** | **CustomTabView-2** | **Coming soon...**
+**TabView-1** | **TabView-2** | **Coming soon...**
 :--:|:--:|:--:|
-[![CustomTabView-1](bars/tab-bars/preview/CustomTabView-1.png)](bars/tab-bars/CustomTabView-1.swift) | [![CustomTabView-2](bars/tab-bars/preview/CustomTabView-2.png)](bars/tab-bars/CustomTabView-2.swift) | [![Coming soon...](assets/coming-soon.png)](#) 
+[![TabView-1](bars/tab-bars/preview/TabView-1.png)](bars/tab-bars/TabView-1.swift) | [![TabView-2](bars/tab-bars/preview/TabView-2.png)](bars/tab-bars/TabView-2.swift) | [![Coming soon...](assets/coming-soon.png)](#) 
 **Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
 
