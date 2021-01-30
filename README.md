@@ -5,11 +5,13 @@
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS-red.svg)](https://developer.apple.com/xcode/swiftui/)
 [![Version](http://img.shields.io/badge/version-2.0-green.svg?style=flat)](https://github.com/CodePassion-dev/awesome-swiftui)
 [![PRs](https://img.shields.io/badge/PRs-welcome-teal.svg)](https://github.com/CodePassion-dev/awesome-swiftui/pulls)
-[![Website](https://img.shields.io/badge/Website-codepassion.dev-yellow.svg)](https://codepassion.dev)
+[![GitHub](https://img.shields.io/badge/github-@duonghominhhuy-orange.svg?style=flat)](https://github.com/duonghominhhuy)
 [![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
+[![Website](https://img.shields.io/badge/Website-codepassion.dev-yellow.svg)](https://codepassion.dev)
 
-- A list of awesome [SwiftUI Framework](https://developer.apple.com/documentation/swiftui) collection. 
+- A collection of awesome [SwiftUI](https://developer.apple.com/documentation/swiftui) elements. 
 - UI categories based on the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
+- This repo is also using many resources from other tutorials.
 - How to use: Click on each screenshot to open example code.
 
 # Table of Contents
@@ -84,7 +86,7 @@
     <!-- - [Activity Views](#activity-views) -->
     <!-- - [Alerts](#alerts) -->
     - [Background](#background)
-    <!-- - [Collections](#collections) -->
+    - [Collections](#collections)
     <!-- - [Image Views](#image-views) -->
     <!-- - [Pages](#pages) -->
     <!-- - [Popovers](#popovers) -->
@@ -162,7 +164,7 @@
 
 **LazyVGrid-1** | **Coming soon...** | **Coming soon...**
 :--:|:--:|:--:|
-[![LazyVGrid-1](views/collections/preview/LazyVGrid-1.gif)](views/collections/LazyVGrid-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+[![LazyVGrid-1](views/collections/preview/LazyVGrid-1.png)](views/collections/LazyVGrid-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#scroll-views)
 
