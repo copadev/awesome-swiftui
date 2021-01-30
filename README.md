@@ -158,6 +158,14 @@
 **Coming soon...** | **Coming soon...** | [**More...**](views/#background)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#background)
 
+### [Collections](views/#collections)
+
+**LazyVGrid-1** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![LazyVGrid-1](views/collections/preview/LazyVGrid-1.gif)](views/collections/LazyVGrid-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#scroll-views)
+
 ### [Scroll Views](views/#scroll-views)
 
 **MenuTopBar** | **Coming soon...** | **Coming soon...**
