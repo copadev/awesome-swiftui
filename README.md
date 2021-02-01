@@ -86,6 +86,7 @@
     <!-- - [Activity Views](#activity-views) -->
     <!-- - [Alerts](#alerts) -->
     - [Background](#background)
+    - [Charts](#charts)
     - [Collections](#collections)
     <!-- - [Image Views](#image-views) -->
     <!-- - [Pages](#pages) -->
@@ -159,6 +160,14 @@
 [![BlurBackgroundImage](views/background/preview/BlurBackgroundImage.png)](views/background/BlurBackgroundImage.swift) | [![UIVisualEffectView](views/background/preview/UIVisualEffectView.png)](views/background/UIVisualEffectView.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#background)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#background)
+
+### [Charts](views/#charts)
+
+**BarChart** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![BarChart](views/charts/preview/BarChart.gif)](views/charts/BarChart.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#scroll-views)
 
 ### [Collections](views/#collections)
 
