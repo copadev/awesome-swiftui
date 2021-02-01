@@ -29,6 +29,8 @@ struct ContentView: View {
             .foregroundColor(.black)
             .padding()
             Spacer()
+            Text("Hello, CodePassion.dev 😜")
+            Spacer()
         }
     }
 }
