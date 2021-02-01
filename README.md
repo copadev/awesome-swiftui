@@ -136,9 +136,9 @@
 
 ### [Navigation Bars](bars/#navigation-bars)
 
-**NavigationBar-1** | **Coming soon...** | **Coming soon...**
+**NavigationBar-1** | **NavigationBar-2** | **Coming soon...**
 :--:|:--:|:--:|
-[![NavigationBar-1](bars/navigation-bars/preview/NavigationBar-1.png)](bars/navigation-bars/NavigationBar-1.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) 
+[![NavigationBar-1](bars/navigation-bars/preview/NavigationBar-1.png)](bars/navigation-bars/NavigationBar-1.swift) | [![NavigationBar-2](bars/navigation-bars/preview/NavigationBar-2.png)](bars/navigation-bars/NavigationBar-2.swift) | [![Coming soon...](assets/coming-soon.png)](#) 
 **Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
 
