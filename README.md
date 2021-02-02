@@ -187,9 +187,9 @@
 
 ### [Text Views](views/#text-views)
 
-**UITextView** | **Coming soon...** | **Coming soon...**
+**UITextView** | **TextEditorWithPlaceholderText** | **Coming soon...**
 :--:|:--:|:--:|
-[![UITextView](views/text-views/preview/UITextView.gif)](views/text-views/UITextView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+[![UITextView](views/text-views/preview/UITextView.gif)](views/text-views/UITextView.swift) | [![TextEditorWithPlaceholderText](views/text-views/preview/TextEditorWithPlaceholderText.gif)](views/text-views/TextEditorWithPlaceholderText.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#text-views)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#text-views)
 
