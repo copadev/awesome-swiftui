@@ -163,9 +163,9 @@
 
 ### [Charts](views/#charts)
 
-**BarChart** | **Coming soon...** | **Coming soon...**
+**BarCharts** | **ProgressRings** | **Coming soon...**
 :--:|:--:|:--:|
-[![BarChart](views/charts/preview/BarChart.gif)](views/charts/BarChart.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+[![BarCharts](views/charts/preview/BarCharts.gif)](views/charts/BarCharts.swift) | [![ProgressRings](views/charts/preview/ProgressRings.png)](views/charts/ProgressRings.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](views/#scroll-views)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#scroll-views)
 
