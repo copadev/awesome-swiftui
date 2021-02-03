@@ -82,7 +82,7 @@
     <!-- - [Toolbars](#toolbars) -->
 
 - [Views](#views)
-    <!-- - [Action Sheets](#action-sheets) -->
+    - [Action Sheets](#action-sheets)
     <!-- - [Activity Views](#activity-views) -->
     <!-- - [Alerts](#alerts) -->
     - [Background](#background)
@@ -152,6 +152,14 @@
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
 
 # [Views](views)
+
+### [Action Sheets](views/#action-sheets)
+
+**PresentDifferentSheets** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![PresentDifferentSheets](views/action-sheets/preview/PresentDifferentSheets.gif)](views/action-sheets/PresentDifferentSheets.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](views/#background)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#background)
 
 ### [Background](views/#background)
 
