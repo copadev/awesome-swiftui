@@ -1,7 +1,7 @@
 //
 //  https://github.com/CodePassion-dev/awesome-swiftui
 //  https://github.com/duonghominhhuy
-//  CustomBehaviourActionSheet.swift
+//  CustomDismissalActionSheet.swift
 //  Awesome-SwiftUI
 //
 //  Created by Huy D. on 2/3/21.
