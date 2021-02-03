@@ -5,11 +5,13 @@
 //  Awesome-SwiftUI
 //
 //  Created by Huy D. on 2/2/21.
+//  Credit to Kavsoft.
 //
 
 import SwiftUI
 
 // Credit to Malin Sundberg
+// https://youtu.be/0MAc-hjvKqw
 
 struct ContentView: View {
     @State private var notes = ""

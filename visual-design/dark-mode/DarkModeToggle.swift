@@ -5,6 +5,7 @@
 //  Awesome-SwiftUI
 //
 //  Created by Huy D. on 9/17/20.
+//  Credit to Kavsoft.
 //
 
 import SwiftUI

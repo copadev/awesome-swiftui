@@ -5,7 +5,7 @@
 //  Awesome-SwiftUI
 //
 //  Created by Huy D. on 9/2/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Credit to Kavsoft
 //
 
 import SwiftUI

@@ -2,10 +2,10 @@
 //  https://github.com/CodePassion-dev/awesome-swiftui
 //  https://github.com/duonghominhhuy
 //  UIActivityIndicatorView.swift
-//  Awesome-SwiftUI
+//  Awesome-SwiftUI.
 //
 //  Created by Huy D. on 9/1/20.
-//  Copyright © 2020 Huy D. All rights reserved.
+//  Credit to Kavsoft.
 //
 
 import SwiftUI

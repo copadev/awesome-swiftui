@@ -5,6 +5,7 @@
 //  SegmentedControl-1.swift
 //
 //  Created by Huy D. on 1/29/21.
+//  Credit to Kavsoft.
 //
 
 import SwiftUI
