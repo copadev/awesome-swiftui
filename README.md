@@ -216,8 +216,8 @@
 **UIImagePickerController** | **PHPickerConfiguration** | **CustomPicker**
 :--:|:--:|:--:|
 [![UIImagePickerController](controls/pickers/preview/UIImagePickerController.gif)](controls/pickers/UIImagePickerController.swift) | [![PHPickerConfiguration](controls/pickers/preview/PHPickerConfiguration.gif)](controls/pickers/PHPickerConfiguration.swift) | [![CustomPicker](controls/pickers/preview/CustomPicker.gif)](controls/pickers/CustomPicker.swift)
-**Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
+**DatePicker** | **Coming soon...** | [**More...**](controls/#pickers)
+[![DatePicker](controls/pickers/preview/DatePicker.gif)](controls/pickers/DatePicker.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
 
 ### [Progress Indicators](controls/#progress-indicators)
 
