@@ -221,9 +221,9 @@
 
 ### [Progress Indicators](controls/#progress-indicators)
 
-**UIActivityIndicatorView** | **Coming soon...** | **Coming soon...**
+**UIActivityIndicatorView** | **ProgressView** | **Coming soon...**
 :--:|:--:|:--:|
-[![SegmentedPickerStyle](controls/progress-indicators/preview/UIActivityIndicatorView.gif)](controls/progress-indicators/UIActivityIndicatorView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+[![SegmentedPickerStyle](controls/progress-indicators/preview/UIActivityIndicatorView.gif)](controls/progress-indicators/UIActivityIndicatorView.swift) | [![ProgressView](controls/progress-indicators/preview/ProgressView.gif)](controls/progress-indicators/ProgressView.swift) | [![Coming soon...](assets/coming-soon.png)](#)
 **Coming soon...** | **Coming soon...** | [**More...**](controls/#progress-indicators)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#progress-indicators)
 
