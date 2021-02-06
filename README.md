@@ -221,11 +221,11 @@
 
 ### [Progress Indicators](controls/#progress-indicators)
 
-**UIActivityIndicatorView** | **ProgressView** | **Coming soon...**
+**ProgressView-1** | **ProgressView-2** | **Coming soon...**
 :--:|:--:|:--:|
-[![SegmentedPickerStyle](controls/progress-indicators/preview/UIActivityIndicatorView.gif)](controls/progress-indicators/UIActivityIndicatorView.swift) | [![ProgressView](controls/progress-indicators/preview/ProgressView.gif)](controls/progress-indicators/ProgressView.swift) | [![Coming soon...](assets/coming-soon.png)](#)
-**Coming soon...** | **Coming soon...** | [**More...**](controls/#progress-indicators)
-[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#progress-indicators)
+[![ProgressView-1](controls/progress-indicators/preview/ProgressView-1.gif)](controls/progress-indicators/ProgressView-1.swift) | [![ProgressView-2](controls/progress-indicators/preview/ProgressView-2.png)](controls/progress-indicators/ProgressView-2.swift) | [![Coming soon...](assets/coming-soon.png)](#)
+**UIActivityIndicatorView** | **Coming soon...** | [**More...**](controls/#progress-indicators)
+[![SegmentedPickerStyle](controls/progress-indicators/preview/UIActivityIndicatorView.gif)](controls/progress-indicators/UIActivityIndicatorView.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#progress-indicators)
 
 ### [Segmented Controls](controls/#segmented-controls)
 
