@@ -145,9 +145,9 @@
 
 ### [Tab Bars](bars/#tab-bars)
 
-**TabView-1** | **TabView-2** | **Coming soon...**
+**TabView-1** | **TabView-2** | **TabView-3**
 :--:|:--:|:--:|
-[![TabView-1](bars/tab-bars/preview/TabView-1.png)](bars/tab-bars/TabView-1.swift) | [![TabView-2](bars/tab-bars/preview/TabView-2.png)](bars/tab-bars/TabView-2.swift) | [![Coming soon...](assets/coming-soon.png)](#) 
+[![TabView-1](bars/tab-bars/preview/TabView-1.png)](bars/tab-bars/TabView-1.swift) | [![TabView-2](bars/tab-bars/preview/TabView-2.png)](bars/tab-bars/TabView-2.swift) | [![TabView-3](bars/tab-bars/preview/TabView-3.png)](bars/tab-bars/TabView-3.swift)
 **Coming soon...** | **Coming soon...** | [**More...**](bars/#tab-bars)
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](bars/#tab-bars)
 
