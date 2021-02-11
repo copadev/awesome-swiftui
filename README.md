@@ -98,7 +98,7 @@
     <!-- - [Web Views](#web-views) -->
 
 - [Controls](#controls)
-    <!-- - [Buttons](#buttons) -->
+    - [Buttons](#buttons)
     <!-- - [Color Wells](#color-wells) -->
     <!-- - [Context Menus](#context-menus) -->
     <!-- - [Edit Menus](#edit-menus) -->
@@ -202,6 +202,14 @@
 [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](views/#text-views)
 
 # [Controls](controls)
+
+### [Buttons](controls/buttons)
+
+**OpenLink** | **Coming soon...** | **Coming soon...**
+:--:|:--:|:--:|
+[![UIImagePickerController](controls/buttons/preview/OpenLink.png)](controls/buttons/OpenLink.swift) | [![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#)
+**Coming soon...** | **Coming soon...** | [**More...**](controls/#pickers)
+[![Coming soon...](assets/coming-soon.png)](#) | [![Coming soon...](assets/coming-soon.png)](#) | [![More...](assets/view-more.png)](controls/#pickers)
 
 ### [Page Controls](controls/#page-controls)
 
