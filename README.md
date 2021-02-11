@@ -3,11 +3,11 @@
 ![Awesome SwiftUI](assets/banner.png)
 
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS-red.svg)](https://developer.apple.com/xcode/swiftui/)
-[![GitHub](https://img.shields.io/badge/github-@duonghominhhuy-teal.svg?style=flat)](https://github.com/duonghominhhuy)
-[![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
+[![GitHub](https://img.shields.io/badge/github-@duonghominhhuy-333.svg?style=flat)](https://github.com/duonghominhhuy)
+[![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-00acee.svg?style=flat)](http://twitter.com/duonghominhhuy)
 [![Website](https://img.shields.io/badge/Website-codepassion.dev-yellow.svg)](https://codepassion.dev)
-[![Version](http://img.shields.io/badge/version-2.0-green.svg?style=flat)](https://github.com/CodePassion-dev/awesome-swiftui)
-[![PRs](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/CodePassion-dev/awesome-swiftui/pulls)
+[![Version](http://img.shields.io/badge/version-2.0-blueviolet.svg?style=flat)](https://github.com/CodePassion-dev/awesome-swiftui)
+[![PRs](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/CodePassion-dev/awesome-swiftui/pulls)
 
 - A collection of awesome [SwiftUI](https://developer.apple.com/documentation/swiftui) elements. 
 - UI categories based on the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
